@@ -1,66 +1,73 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#007acc">Pratheesh Krishnan</span></h1>
+<h1 align="center">Hi 👋, I'm Pratheesh Krishnan</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F772D3&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Full-Stack+Web+Developer;Problem+Solver+%7C+Hackathon+Enthusiast;Loves+turning+ideas+into+real+projects!" alt="Typing SVG" />
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on web projects that solve real-world problems  
+- 🌱 Learning **Advanced JavaScript**, **Tailwind CSS**, **React**, **Machine Learning**, and **Markdown Magic**  
+- 🧠 I build full-stack web apps and research environmental data projects  
+- ✨ Love building creative interfaces and deploying with **Vercel**  
+- 😎 Currently using **GitHub**, **Anaconda**, **Jupyter Notebook**, **VS Code**, **Pandas**, and **Node.js**
+
+---
+
+### 🛠️ Languages & Tools I Use
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
+### 🚀 GitHub Stats
 
 <p align="center">
-  💻 Full-Stack Web Developer | 🌍 GIS Enthusiast | 🤖 ML Beginner <br>
-  🔬 Passionate about tech + research + real-world impact!
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kingpk810&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingpk810&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kingpk810&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-### 👀 About Me  
-I'm a passionate full-stack web developer and problem solver, always eager to learn and explore new technologies. I enjoy building projects that create an impact—whether it's in software development, research, or real-world applications.
+### 🤝 Let’s Connect
+
+- 📫 Email: **kingpk810@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/pratheeshkrishnan](https://www.linkedin.com/in/pratheeshkrishnan/)
+- 🌐 Portfolio: Coming soon 👨‍🚀
 
 ---
 
-### 🌱 Currently Learning  
-- ⚡ Advanced JavaScript & Full-Stack Web Development  
-- 🌍 Remote Sensing & GIS  
-- 🤖 Machine Learning & LULC Classification
+### 💬 Fun Fact
+
+> I love turning random ideas into projects—  
+> Sometimes they work like magic ✨,  
+> Sometimes they crash spectacularly 💥,  
+> But either way, I learn (and debug at 3 AM 🦉)!
 
 ---
 
-### 💡 What I Do  
-- 🔹 Build interactive & responsive web apps  
-- 🔹 Work on LULC classification & GIS-based environmental analysis  
-- 🔹 Build Java-based GUI applications  
-- 🔹 Participate in AI/ML hackathons & university-level tech events
-
----
-
-### 💬 Languages & Tools  
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F772D3,100:8E2DE2&height=120&section=footer"/>
 </p>
-
----
-
-### 💞️ Looking to Collaborate On  
-- ✅ Open-source projects in web development & data science  
-- ✅ Hackathons and tech challenges  
-- ✅ Research on climate change, glaciers & natural disaster prediction  
-
----
-
-### 📫 How to Reach Me  
-- 📧 Email: **kingpk810@gmail.com**  
-- 🌍 Based in: **India** 🇮🇳
-
----
-
-### ⚡ Fun Fact  
-🚀 I love turning random ideas into projects—sometimes they work like magic ✨, sometimes they crash spectacularly 💥... but either way, I learn something new (and probably end up debugging at 3 AM 🦉)!
-
----
-
