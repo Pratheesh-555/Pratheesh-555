@@ -8,8 +8,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 I’m a passionate **Full-Stack Web Developer** & **ML Explorer**  
-- 🌱 Currently learning: **React.js**, **Tailwind CSS**, **Node.js**, **AI APIs**  
+- 🚀 I’m a passionate **Full-Stack Web Developer**  
+- 🌱 Currently learning: **MERN Stack**
 - 💡 I love building scalable & impactful apps and deploying on **Vercel**  
 - 💻 Currently using **VS Code**, **GitHub**, **Jupyter**, **Anaconda**  
 - ⚡ Fun side quests: Markdown magic, terminal tricks, hackathons
@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vercel,nodejs,express,java,cpp,python,jupyter,github,git,vscode,figma,markdown,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,netlify,nodejs,express,java,cpp,python,jupyter,github,git,vscode,figma,markdown,anaconda&theme=dark" />
 </p>
 
 ---
