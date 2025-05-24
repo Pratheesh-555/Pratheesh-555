@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pratheesh Krishnan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7DE&center=true&vCenter=true&multiline=true&width=700&lines=Full-Stack+Web+Developer+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7DE&center=true&vCenter=true&multiline=true&width=700&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
